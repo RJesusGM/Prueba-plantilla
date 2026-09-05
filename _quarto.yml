@@ -17,7 +17,7 @@ website:
       - section: "Segundo reporte"
         contents:
           - mis_reportes/reporte-02.qmd
-      - section: "Último reporte"
+      - section: "Tercer reporte"
         contents:
           - mis_reportes/reporte-03.qmd
       - section: "Reporte con dos lenguajes"
