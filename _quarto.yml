@@ -20,6 +20,9 @@ website:
       - section: "Último reporte"
         contents:
           - mis_reportes/reporte-03.qmd
+      - section: "Reporte con dos lenguajes"
+        contents:
+          - mis_reportes/reporte-04.qmd
 
 format:
   html:
