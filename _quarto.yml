@@ -23,6 +23,6 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: cyborg
     toc: true
     lang: es
